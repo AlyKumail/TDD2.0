@@ -1,0 +1,59 @@
+.faq-container{
+  margin-bottom: 7rem;
+}
+.faq-container h2 {
+  font-family: 'Della Respira';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 80px;
+  /* identical to box height, or 133% */
+  
+  text-transform: uppercase;
+  
+  /* White */
+    text-align: center;
+  color: #FCFCFC;
+  }
+  .faq-item{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+ 
+  .faq-item-text p{
+    font-family: 'Della Respira';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 44px;
+/* or 157% */
+
+
+/* White */
+
+color: #FCFCFC;
+  }
+  .question{
+    /* font-weight: 600 !important; */
+    margin-bottom: 1.5rem;
+    /* margin-top: 1.5rem; */
+  }
+  .faqDot{
+    margin-left: 2.85rem;
+    margin-right: .5rem;
+  }
+  .faq-question{
+    margin-top: 2.2rem;
+  }
+  .faq-question .faq-item-text{
+    /* border: 1px solid red; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .border-bottom-gray{
+    border-bottom: 0.5px solid #999999;
+    padding-bottom: 2.5rem;
+  }

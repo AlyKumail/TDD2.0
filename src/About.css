@@ -1,0 +1,45 @@
+.about-container{
+    margin: 8rem 0;
+}
+.about-container .MainContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.about-container h2,
+.about-container p{
+    text-align: center;
+}
+.about-container h2 {
+  font-family: 'Della Respira';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.7rem;
+  line-height: 80px;
+  /* identical to box height, or 133% */
+  position: relative;
+  text-transform: uppercase;
+  width: auto !important;
+  /* White */
+  margin-bottom: 2.5rem;
+  color: #FCFCFC;
+  }
+  .aboutstar{
+    position: absolute;
+    right: -17%;
+    top: -45%;
+  }
+  .about-container p{
+    font-family: 'Della Respira';
+font-style: normal;
+font-weight: 500;
+font-size: 2rem;
+line-height: 56px;
+/* or 175% */
+
+text-align: center;
+
+/* White */
+
+color: #FCFCFC;
+  }

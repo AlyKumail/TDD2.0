@@ -1,0 +1,102 @@
+.roadmap-container {
+  margin: 5rem 0;
+}
+.roadmap-container h2 {
+  font-family: 'Della Respira';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 80px;
+/* identical to box height, or 133% */
+
+text-transform: uppercase;
+text-align: center;
+margin-bottom: 3rem;
+/* White */
+
+color: #FCFCFC;
+
+}
+.roadmap {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  padding: 2rem auto;
+}
+.roadmap-row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.5px solid #999999;
+  padding: 2.7rem 0;
+}
+.roadmap-row p{
+  font-family: 'Della Respira';
+font-style: normal;
+font-weight: 500;
+font-size: 2rem;
+line-height: 48px;
+/* or 150% */
+
+
+/* White */
+
+color: #FCFCFC;
+}
+.roadmap-text{
+  width: 35%;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.roadmap-text span{
+  font-family: 'Della Respira';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #60C3AE;
+}
+
+@media screen and (max-width: 768px) {
+  .roadmap-container {
+    margin: 3rem 0;
+  }
+  .roadmap-item {
+    flex-direction: column-reverse;
+  }
+  .roadmap-item-data p img {
+    width: 12px;
+    /* height: 5px; */
+  }
+  .roadmap-item-data {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1rem 1rem;
+  }
+  .roadmap-item-dir {
+    width: 100%;
+    text-align: center;
+  }
+  .roadmap-item-data p {
+    font-size: 1rem;
+  }
+  .roadmap-row{
+    flex-direction: column;
+  }
+  .roadmap-text{
+    width: 90%;
+    margin-top: 2rem;
+  }
+}
+@media screen and (max-width: 1024px){
+  .roadmap-text{
+    width: 50%;
+    
+  }
+
+}

@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91c7cb34.chunk.css",
+    "main.js": "/static/js/main.01c16726.chunk.js",
+    "main.js.map": "/static/js/main.01c16726.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c14173c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c14173c.js.map",
+    "static/js/2.5fcd828c.chunk.js": "/static/js/2.5fcd828c.chunk.js",
+    "static/js/2.5fcd828c.chunk.js.map": "/static/js/2.5fcd828c.chunk.js.map",
+    "static/js/3.89c49228.chunk.js": "/static/js/3.89c49228.chunk.js",
+    "static/js/3.89c49228.chunk.js.map": "/static/js/3.89c49228.chunk.js.map",
+    "static/js/4.76042e2e.chunk.js": "/static/js/4.76042e2e.chunk.js",
+    "static/js/4.76042e2e.chunk.js.map": "/static/js/4.76042e2e.chunk.js.map",
+    "static/js/5.a65353b7.chunk.js": "/static/js/5.a65353b7.chunk.js",
+    "static/js/5.a65353b7.chunk.js.map": "/static/js/5.a65353b7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.91c7cb34.chunk.css.map": "/static/css/main.91c7cb34.chunk.css.map",
+    "static/js/2.5fcd828c.chunk.js.LICENSE.txt": "/static/js/2.5fcd828c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/CrucialMedium.adf69a20.otf",
+    "static/media/TDDheroPic1.e2288f48.png": "/static/media/TDDheroPic1.e2288f48.png",
+    "static/media/TDDheroPic2.aa44d417.png": "/static/media/TDDheroPic2.aa44d417.png",
+    "static/media/TDDmintPic1.64f2fe70.png": "/static/media/TDDmintPic1.64f2fe70.png",
+    "static/media/TDDteamPic.91f5ab8e.png": "/static/media/TDDteamPic.91f5ab8e.png",
+    "static/media/buttimg.71ff6cf6.png": "/static/media/buttimg.71ff6cf6.png",
+    "static/media/heroHeaderDecor.b075a510.png": "/static/media/heroHeaderDecor.b075a510.png",
+    "static/media/logo1.e5ccf19f.jpeg": "/static/media/logo1.e5ccf19f.jpeg",
+    "static/media/roadmap2.16365dc9.png": "/static/media/roadmap2.16365dc9.png",
+    "static/media/roadmap3.e936cca0.png": "/static/media/roadmap3.e936cca0.png",
+    "static/media/roadmap4.5f4dd84b.png": "/static/media/roadmap4.5f4dd84b.png",
+    "static/media/roadmap5.7ef97a33.png": "/static/media/roadmap5.7ef97a33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c14173c.js",
+    "static/js/2.5fcd828c.chunk.js",
+    "static/css/main.91c7cb34.chunk.css",
+    "static/js/main.01c16726.chunk.js"
+  ]
+}

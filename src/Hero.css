@@ -1,0 +1,131 @@
+.hero-container {
+  margin-bottom: 4.85rem;
+  position: relative;
+}
+.hero {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5rem;
+}
+h3 {
+  text-align: center;
+}
+.hero-left {
+  width: 100%;
+}
+.hero-right {
+  width: 40%;
+  display: flex;
+}
+.hero-right img {
+  max-width: 100%;
+}
+.hero-left h2 {
+  font-family: 'Della Respira';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 88px;
+  /* identical to box height, or 133% */
+  text-align: center;
+  text-transform: uppercase;
+
+  /* White */
+  position: relative;
+  color: #FCFCFC;
+}
+.heroDecor{
+  position: absolute;
+}
+.top{
+  top: -80%;
+  left: -1.5%;
+}
+.down{
+  bottom: -128%;
+  right: 9%;
+}
+.buttimg{
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.color-blue{
+  color: #60C3AE;
+}
+.purpUnderline {
+  font-family: "Crucial";
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+.purpUnderline::after {
+  content: "";
+  display: inline-block;
+  height: 14px;
+  width: 100%;
+  bottom: 0px;
+  left: 0;
+  z-index: -1;
+  background-color: #6750a3;
+  position: absolute;
+}
+
+.hero-left p {
+  font-family: 'Della Respira';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+  /* identical to box height */
+  border-top: 1px solid #999999;
+  padding: .88rem 0;
+  /* White */
+  color: #FCFCFC;
+}
+.border-bottom-gray{
+  border-bottom: 1px solid #999999;
+
+}
+.circleBg {
+  /* margin: 0 auto; */
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.hero-left-wrap{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4rem;
+}
+.hero-images{
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+  width: 55%;
+}
+@media screen and (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    margin-bottom: 3rem;
+  }
+  .hero-left {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .hero-right {
+    width: 80%;
+    margin: 1rem auto;
+    display: flex;
+  }
+  .hero-left h2 {
+    margin-top: 0rem;
+  }
+  .hero-left p {
+    font-size: 1.3rem;
+    line-height: 41px;
+  }
+}
