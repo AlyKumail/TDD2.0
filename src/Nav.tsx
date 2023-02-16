@@ -30,7 +30,7 @@ const Nav = () => {
         </ul>
 
         <div className="navbar_social-links">
-        <a href="https://instagram.com/_thebutterflydiaries?igshid=ZDdkNTZiNTM=">
+        <a href="https://instagram.com/_thebutterflydiariesnft?igshid=ZDdkNTZiNTM=">
             <img src={insta} alt="" />
           </a>
           <a href="https://discord.gg/FMzjPRWzs7">
