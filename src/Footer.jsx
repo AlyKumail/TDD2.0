@@ -34,6 +34,9 @@ const Footer = () => {
         </ul>
 
         <div className="navbar_social-links">
+        <a href="https://www.instagram.com/_thebutterflydiariesnft/">
+            <img src={Twitter} alt="" />
+          </a>
           <a href="https://www.instagram.com/_thebutterflydiariesnft/">
             <img src={insta} alt="" />
           </a>

@@ -2,6 +2,7 @@ import "./Nav.css";
 import logo from "./img/logo1.jpeg";
 import insta from "./img/insta.png";
 import Discord from "./img/Discord.png";
+import Twitter from "./img/Twitter.png";
 
 const Nav = () => {
   return (
@@ -30,6 +31,9 @@ const Nav = () => {
         </ul>
 
         <div className="navbar_social-links">
+         <a href="https://www.instagram.com/_thebutterflydiariesnft/">
+            <img src={Twitter} alt="" />
+          </a>
         <a href="https://www.instagram.com/_thebutterflydiariesnft/">
             <img src={insta} alt="" />
           </a>
