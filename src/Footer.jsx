@@ -1,5 +1,5 @@
 import "./Footer.css";
-// import Twitter from "./img/Twitter.png";
+import Twitter from "./img/Twitter.png";
 import Discord from "./img/Discord.png";
 import insta from "./img/insta.png";
 import totop from "./img/totop.png";
