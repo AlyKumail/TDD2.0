@@ -31,7 +31,7 @@ const Nav = () => {
         </ul>
 
         <div className="navbar_social-links">
-         <a href="https://www.instagram.com/_thebutterflydiariesnft/">
+         <a href="https://twitter.com/TheButtNft?t=daXr9ErH40Md8wEL9Hvcdg&s=09">
             <img src={Twitter} alt="" />
           </a>
         <a href="https://www.instagram.com/_thebutterflydiariesnft/">
