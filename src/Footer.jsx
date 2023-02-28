@@ -40,7 +40,7 @@ const Footer = () => {
           <a href="https://www.instagram.com/_thebutterflydiariesnft/">
             <img src={insta} alt="" />
           </a>
-          <a href="https://discord.gg/FMzjPRWzs7">
+          <a href="https://discord.gg/4dc6FZAkEJ">
             <img src={Discord} alt="" />
           </a>
         </div>
