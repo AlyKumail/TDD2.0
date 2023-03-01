@@ -1,7 +1,7 @@
 import "./Footer.css";
 import Twitter from "./img/Twitter.png";
 import Discord from "./img/Discord.png";
-import insta from "./img/insta.png";
+
 import totop from "./img/totop.png";
 import copyright from "./img/copyright.png";
 
@@ -37,9 +37,7 @@ const Footer = () => {
         <a href="https://twitter.com/TheButtNft?t=daXr9ErH40Md8wEL9Hvcdg&s=09">
             <img src={Twitter} alt="" />
           </a>
-          <a href="https://www.instagram.com/_thebutterflydiariesnft/">
-            <img src={insta} alt="" />
-          </a>
+         
           <a href="https://discord.gg/4dc6FZAkEJ">
             <img src={Discord} alt="" />
           </a>
